@@ -15,3 +15,9 @@
 
 - *HTML5*
 - *Tailwind CSS*
+
+---
+
+## License
+
+This project is licensed under the MIT license.
